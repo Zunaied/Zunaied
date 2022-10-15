@@ -2,7 +2,7 @@
 - 👀 I’m interested in APP Development
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on APP Development and Machine Learning
-- 📫 How to reach me send email @
+- 📫 To reach me send email @
       zunaiedrafee@gmail.com
 
 <!---
