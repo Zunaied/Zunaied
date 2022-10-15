@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Zunaied
+- 👋 Hi, I’m @Rafee
 - 👀 I’m interested in APP Development
 - 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on app development and machine learning
-- 📫 How to reach me https://www.linkedin.com/in/rafee-zunaied-tanna-1b2b7b1a2?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B5fbVKh70QLChI07hXjSD4w%3D%3D
+- 💞️ I’m looking to collaborate on APP Development and Machine Learning
+- 📫 How to reach me send email @
+      zunaiedrafee@gmail.com
 
 <!---
 Zunaied/Zunaied is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
