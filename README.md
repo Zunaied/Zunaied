@@ -1,9 +1,14 @@
-- 👋 Hi, I’m @Rafee
-- 👀 I’m interested in APP Development
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on APP Development and Machine Learning
-- 📫 To reach me send email @
-      zunaiedrafee@gmail.com
+- 👋 Hi, I'm Zunaied (@Rafee)!
+
+-  I'm passionate about cloud technologies and DevOps practices, striving to create robust and scalable solutions.
+
+-  Currently diving into the realms of Cloud and DevOps.
+
+-  I'm eager to collaborate on projects related to Cloud Architecture and Machine Learning.
+
+- 📫 You can reach out to me via email at zunaiedrafee@gmail.com.
+
+Let's build innovative and efficient solutions together! 👨‍💻✨
 
 <!---
 Zunaied/Zunaied is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
