@@ -1,4 +1,4 @@
-- 👋 Hi, I'm Rafee)!
+- 👋 Hi, I'm Rafee!
 
 -  I'm passionate about cloud technologies and DevOps practices, striving to create robust and scalable solutions.
 
