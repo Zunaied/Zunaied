@@ -1,10 +1,12 @@
 - 👋 Hi, I'm Rafee!
 
--  I'm passionate about cloud technologies and DevOps practices, striving to create robust and scalable solutions.
+-  I'm passionate about Flutter App Development, Cloud Technology and DevOps practices.
 
--  Currently diving into the realms of Cloud and DevOps.
+-  Currently diving into the realms of Flutter App Development.
+-  Certified AWS Solution Architect Associate.
+-  Have Knowledge on DevOps Practice. 
 
--  I'm eager to collaborate on projects related to Cloud Architecture and Machine Learning.
+-  I'm eager to collaborate on projects related to Cloud, Flutter App Development and Machine Learning.
 
 - 📫 You can reach out to me via email at zunaiedrafee@gmail.com.
 
