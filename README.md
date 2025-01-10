@@ -2,11 +2,10 @@
 
 -  I'm passionate about Flutter App Development, Cloud Technology and DevOps practices.
 
--  Currently diving into the realms of Flutter App Development.
--  Certified AWS Solution Architect Associate.
--  Have Knowledge on DevOps Practice. 
+  -  Certified AWS Solution Architect Associate.
+-  Have Knowledge on DevOps Practice and AI. 
 
--  I'm eager to collaborate on projects related to Cloud, Flutter App Development and Machine Learning.
+-  I'm eager to collaborate on projects related to Cloud, Flutter App Development and Machine Learning/AI.
 
 - 📫 You can reach out to me via email at zunaiedrafee@gmail.com.
 
