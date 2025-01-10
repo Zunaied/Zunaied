@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Rafee!
 
--  I'm passionate about Flutter App Development, Cloud Technology and DevOps practices.
+-  I'm passionate about Cloud Technology, DevOps and AI.
 
   -  Certified AWS Solution Architect Associate.
 -  Have Knowledge on DevOps Practice and AI. 
